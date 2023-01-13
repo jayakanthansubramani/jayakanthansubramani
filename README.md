@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jayakanthan Subramani
 - 👀 I’m interested in Full Stack Development and Data science 
-- 🌱 I’m currently learning Data Structures and Algo in Java
+- 🌱 I’m currently learning Data Structures and Algo in Java & Data Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jaisubramani23@gmail.com
 
